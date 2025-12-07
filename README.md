@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build a Modern Portfolio Website with React & TailwindCSS
 
 <div align="center">
@@ -131,3 +132,7 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 ---
 
 Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
+=======
+# M.Maaz-Portfolio
+My personal portfolio showcasing projects, skills and experience. Built with React and Tailwind and deployed on Netlify.
+>>>>>>> 2e0ca21f65a38a2d114aa40900b1854121e44bf6
